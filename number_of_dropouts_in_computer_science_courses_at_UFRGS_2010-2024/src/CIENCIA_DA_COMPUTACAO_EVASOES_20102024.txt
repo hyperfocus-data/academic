@@ -1,0 +1,116 @@
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2024 | Periodo: 1
+	* N de Evadidos: 4
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2023 | Periodo: 2
+	* N de Evadidos: 25
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2023 | Periodo: 1
+	* N de Evadidos: 61
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2022 | Periodo: 2
+	* N de Evadidos: 88
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2022 | Periodo: 1
+	* N de Evadidos: 5
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2021 | Periodo: 2
+	* N de Evadidos: 21
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2021 | Periodo: 1
+	* N de Evadidos: 5
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2020 | Periodo: 2
+	* N de Evadidos: 12
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2020 | Periodo: 1
+	* N de Evadidos: 14
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2019 | Periodo: 2
+	* N de Evadidos: 37
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2019 | Periodo: 1
+	* N de Evadidos: 27
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2018 | Periodo: 2
+	* N de Evadidos: 22
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2018 | Periodo: 1
+	* N de Evadidos: 30
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2017 | Periodo: 2
+	* N de Evadidos: 30
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2017 | Periodo: 1
+	* N de Evadidos: 36
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2016 | Periodo: 2
+	* N de Evadidos: 52
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2016 | Periodo: 1
+	* N de Evadidos: 39
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2015 | Periodo: 2
+	* N de Evadidos: 18
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2015 | Periodo: 1
+	* N de Evadidos: 20
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2014 | Periodo: 2
+	* N de Evadidos: 23
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2014 | Periodo: 1
+	* N de Evadidos: 19
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2013 | Periodo: 2
+	* N de Evadidos: 24
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2013 | Periodo: 1
+	* N de Evadidos: 24
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2012 | Periodo: 2
+	* N de Evadidos: 25
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2012 | Periodo: 1
+	* N de Evadidos: 29
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2011 | Periodo: 2
+	* N de Evadidos: 25
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2011 | Periodo: 1
+	* N de Evadidos: 20
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2010 | Periodo: 2
+	* N de Evadidos: 36
+===================================
+	* Nome do Curso: CIENCIA DA COMPUTACAO
+	* Ano: 2010 | Periodo: 1
+	* N de Evadidos: 16
+===================================
