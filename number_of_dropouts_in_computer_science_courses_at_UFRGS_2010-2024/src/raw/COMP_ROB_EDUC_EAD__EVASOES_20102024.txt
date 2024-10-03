@@ -1,0 +1,28 @@
+	* Nome do Curso: COMPUTAÇÃO E ROBÓTICA EDUCATIVA - EDUCAÇÃO A DISTÂNCIA - EAD
+	* Ano: 2024 | Periodo: 1
+	* N de Evadidos: 5
+===================================
+	* Nome do Curso: COMPUTAÇÃO E ROBÓTICA EDUCATIVA - EDUCAÇÃO A DISTÂNCIA - EAD
+	* Ano: 2023 | Periodo: 2
+	* N de Evadidos: 15
+===================================
+	* Nome do Curso: COMPUTAÇÃO E ROBÓTICA EDUCATIVA - EDUCAÇÃO A DISTÂNCIA - EAD
+	* Ano: 2023 | Periodo: 1
+	* N de Evadidos: 72
+===================================
+	* Nome do Curso: COMPUTAÇÃO E ROBÓTICA EDUCATIVA - EDUCAÇÃO A DISTÂNCIA - EAD
+	* Ano: 2022 | Periodo: 2
+	* N de Evadidos: 6
+===================================
+	* Nome do Curso: COMPUTAÇÃO E ROBÓTICA EDUCATIVA - EDUCAÇÃO A DISTÂNCIA - EAD
+	* Ano: 2022 | Periodo: 1
+	* N de Evadidos: 2
+===================================
+	* Nome do Curso: COMPUTAÇÃO E ROBÓTICA EDUCATIVA - EDUCAÇÃO A DISTÂNCIA - EAD
+	* Ano: 2021 | Periodo: 2
+	* N de Evadidos: 22
+===================================
+	* Nome do Curso: COMPUTAÇÃO E ROBÓTICA EDUCATIVA - EDUCAÇÃO A DISTÂNCIA - EAD
+	* Ano: 2021 | Periodo: 1
+	* N de Evadidos: 2
+===================================
