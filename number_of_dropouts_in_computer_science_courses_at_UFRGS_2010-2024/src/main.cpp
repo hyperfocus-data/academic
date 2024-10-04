@@ -136,16 +136,13 @@ extern "C"
         for (int i = 0; i < ALPHA; i++)
         {
             Data *p = c->v[i];
-            printf("%c:\n", (char)i + 'A');
             while (p != NULL)
             {
                 if (containsstr(p->nameCourse, query) == TRUE)
                 {
-                    //printf("\t* CodCurso: %d\n", p->codCourse);
                     printf("\t* Nome do Curso: %s\n", p->nameCourse);
                     printf("\t* Ano: %d | Periodo: %d\n", p->year, p->period);
                     printf("\t* N de Evadidos: %d\n", p->nDropped);
-                    //printf("\t* N de Ingressantes: %d\n", p->nEntered);
                     printf("===================================\n");
                 }
                 p = p->next;
@@ -211,19 +208,35 @@ void readninsert(const char *filename, string &buffer, Collection *c) // string&
     fp.close();
 }
 
-int main(int argc, char* argv[])
+int main(int argc, char *argv[])
 {
     Collection *c = createRegister();
 
-    if (c != NULL)
+    if (argc > 1)
     {
-        string buffer;
-        readninsert("raw/dadosabertos_graduacao_quantitativo-de-alunos.csv", buffer, c);
-        //printalldata(c);
-        //printnames(c);
-        char query[] = "COMPUTAÇÃO E ROBÓTICA EDUCATIVA";
-        showCourseDataByName(c, query);
-    } 
+        int q_size = 0;
+        for(int i = 0; i < argc; i++)
+            q_size += strlen(argv[i]) + 1;
+        char * query = (char*)malloc(q_size*sizeof(char));
+        if (query == NULL) { printf("malloc error.\n"); exit(-2); }
+        strcpy(query, "");
+        for(int i = 1; i < argc; i++)
+        {
+            strcat(query, argv[i]);
+            if (i < argc - 1)
+                strcat(query, " ");
+
+        }
+        printf("query: %s\n", query);
+
+        if (c != NULL)
+        {
+            string buffer;
+            readninsert("raw/dadosabertos_graduacao_quantitativo-de-alunos.csv", buffer, c);
+            showCourseDataByName(c, query);
+        } 
+        free(query);
+    } else { cout << "Usage: .main.cpp <name of course>\n" << endl;}
 
     return 0;
 }
